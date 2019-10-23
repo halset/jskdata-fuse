@@ -18,12 +18,12 @@ dr-xr-xr-x  0 halset  staff  0 Jan  1  1970 28c896d0-8a0d-4209-bf31-4931033b1082
 dr-xr-xr-x  0 halset  staff  0 Jan  1  1970 aee42bb6-d0e9-4d70-86fe-6ea76c381055
 jskdata-fuse % ls -l /private/tmp/mnt-jskdata/28c896d0-8a0d-4209-bf31-4931033b1082/
 total 108424
--r--r--r--  0 halset  staff  41517273 Jan  1  1970 Samferdsel_0000_Norge_6173_Luftfartshindre_GML.zip
--r--r--r--  0 halset  staff  13990819 Jan  1  1970 Samferdsel_0000_Norge_6173_Luftfartshindre_SOSI.zip
+-r--r--r--  0 halset  staff  41517273 Oct 19 07:21 Samferdsel_0000_Norge_6173_Luftfartshindre_GML.zip
+-r--r--r--  0 halset  staff  13990819 Oct 19 05:46 Samferdsel_0000_Norge_6173_Luftfartshindre_SOSI.zip
 jskdata-fuse % ls -l /private/tmp/mnt-jskdata/aee42bb6-d0e9-4d70-86fe-6ea76c381055/
 total 218536
--r--r--r--  0 halset  staff  22582912 Jan  1  1970 Basisdata_0000_Norge_25833_N1000Kartdata_FGDB.zip
--r--r--r--  0 halset  staff  36951747 Jan  1  1970 Basisdata_0000_Norge_25833_N1000Kartdata_GML.zip
--r--r--r--  0 halset  staff  41534106 Jan  1  1970 Basisdata_0000_Norge_25833_N1000Kartdata_PostGIS.zip
--r--r--r--  0 halset  staff  10812976 Jan  1  1970 Basisdata_0000_Norge_25833_N1000Kartdata_SOSI.zip
+-r--r--r--  0 halset  staff  22582912 Oct 21 07:55 Basisdata_0000_Norge_25833_N1000Kartdata_FGDB.zip
+-r--r--r--  0 halset  staff  36951747 Oct 21 07:24 Basisdata_0000_Norge_25833_N1000Kartdata_GML.zip
+-r--r--r--  0 halset  staff  41534106 Oct 21 07:57 Basisdata_0000_Norge_25833_N1000Kartdata_PostGIS.zip
+-r--r--r--  0 halset  staff  10812976 Oct 21 06:58 Basisdata_0000_Norge_25833_N1000Kartdata_SOSI.zip
 ```

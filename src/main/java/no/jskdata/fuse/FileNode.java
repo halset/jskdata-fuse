@@ -21,6 +21,8 @@ class FileNode extends Node {
         stat.st_size.set(file.getContentLength());
         stat.st_uid.set(fs.getContext().uid.get());
         stat.st_gid.set(fs.getContext().gid.get());
+        stat.st_mtim.tv_sec.set(file.getLastModified().getTime()/1000);
+        stat.st_mtim.tv_nsec.set((file.getLastModified().getTime()%1000)*1000);
     }
 
     int read(Pointer buffer, long size, long offset) {
